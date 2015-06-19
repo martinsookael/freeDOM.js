@@ -1,0 +1,28 @@
+
+p {
+  margin-bottom: 10px;
+}
+
+.hidden {
+  display: none;
+}
+
+body {
+  text-align: center;
+}
+
+#foo {
+  margin-top: 100px;
+  width: 100%;
+  max-width: 200px;
+  height: 24px;
+  text-align: center;
+}
+
+#bar {
+  margin-top: 50px;
+}
+
+#hiddenStatus {
+  margin-top: 20px;
+}
