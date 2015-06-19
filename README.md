@@ -20,4 +20,4 @@ $.foo.removeClass("hidden") === $("#foo").removeClass("hidden")
 ##Notes
 1. I think Object.prototype.refill is not the correct way of doing this.  
 2. Class names could be better; it's pretty difficult to actually figure out function names that would already not be in use by js or jQuery.
-3. The "two-way data-binding" was just something I discovered on the way.  
+3. The "two-way data-binding" was just something I discovered on the way and wanted to try out.  
