@@ -7,7 +7,7 @@ $.foo.value = "Hello World";
 
 $.bar.refill("Hello World");
 
-$.foo.onkeyup = function () {
+$.foo.onkeydown = function () {
   $.bar.refill(this.value);
 };
 
